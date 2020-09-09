@@ -5,7 +5,7 @@ import "./index.scss";
 const Home: React.FC = () => {
   return (
     <main>
-      <img src="./src/images/summer.jpg" alt="" />
+      <img src="https://via.placeholder.com/468x180?text=Blank" alt="" />
     </main>
   );
 };
